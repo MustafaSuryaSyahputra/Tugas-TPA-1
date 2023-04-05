@@ -24,6 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This is the task of my personal website, which contains my portfolio and about myself, then there are also several articles or blogs that I reference
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -36,14 +37,6 @@
 * CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 <!-- CONTACT -->
 ## Contact
