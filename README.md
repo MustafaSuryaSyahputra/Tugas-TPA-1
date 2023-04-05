@@ -38,11 +38,6 @@ This is the task of my personal website, which contains my portfolio and about m
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Mustafa Surya Syahputra - [@whatsapp] - 081382391386
-
 Project Link: [https://github.com/MustafaSuryaSyahputra/Tugas-TPA-1](https://github.com/MustafaSuryaSyahputra/Tugas-TPA-1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
