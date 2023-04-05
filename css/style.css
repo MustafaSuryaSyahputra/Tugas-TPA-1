@@ -1,0 +1,112 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.wrapper {
+    width: 1100px;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+}
+
+.navbar-brand {
+    font-size: 35px;
+    font-weight: 800;
+    margin: auto;
+    font-family:'Times New Roman', Times, serif;
+    color: #F1DEC9;
+}
+
+.navbar-collapse {
+    float: right;
+}
+
+nav {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+    position: sticky;
+    top: 0;
+    background-color: #8D7B68;
+}
+
+.navbar-nav {
+    list-style-type: none;
+    margin-left: 20px;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+.nav-item .nav-link {
+    color: #F1DEC9;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    align-items: center;
+}
+
+.card img{
+    border-radius: 70%;
+    border-width: 0px;
+}
+
+.profile .profile-description {
+    flex: 1;
+}
+
+.profile-description h1 {
+    font-size: 48px;
+	margin-left: 60px;
+	margin-top: 200;
+}
+
+.profile-description h2 {
+    font-size: 24px;
+	margin-left: 70px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+.profile-description p {
+    font-size: 16px;
+	margin-left: 70px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+#footer {
+    background-color: #8D7B68;
+    position: fixed;
+    color: white;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    bottom: 0;
+    width: 100%;
+}
