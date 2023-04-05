@@ -26,18 +26,10 @@
 
 This is the task of my personal website, which contains my portfolio and about myself, then there are also several articles or blogs that I reference
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * Bootstrap
 * HTML
 * CSS
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 Project Link: [https://github.com/MustafaSuryaSyahputra/Tugas-TPA-1](https://github.com/MustafaSuryaSyahputra/Tugas-TPA-1)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
